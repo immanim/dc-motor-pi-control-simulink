@@ -35,4 +35,5 @@ The simulation shows that the PI controller helps the motor reach the desired sp
 
 ## Author
 Immanuvel M
+
 Mechatronics Engineering Student
